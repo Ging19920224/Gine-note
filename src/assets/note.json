@@ -668,14 +668,44 @@
   {
     "category": "Vue",
     "item": "article",
+    "name": "Vue.js 官網",
+    "url": "https://cn.vuejs.org/"
+  },
+  {
+    "category": "Vue",
+    "item": "article",
+    "name": "Vue I18n",
+    "url": "https://kazupon.github.io/vue-i18n/"
+  },
+  {
+    "category": "Vue",
+    "item": "article",
+    "name": "[Day 24] Vue-i18n, 如何讓你的vue支援多語言 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+    "url": "https://ithelp.ithome.com.tw/articles/10194177"
+  },
+  {
+    "category": "Vue",
+    "item": "article",
     "name": "Vue 一個電商網頁 課程的 API 說明文檔",
     "url": "https://github.com/hexschool/vue-course-api-wiki/wiki"
   },
   {
     "category": "Vue",
     "item": "article",
+    "name": "VeeValidate",
+    "url": "https://logaretm.github.io/vee-validate/"
+  },
+  {
+    "category": "Vue",
+    "item": "article",
     "name": "Vue.js 電商練習技術整理 -- 使用 VeeValidate 輕鬆建立表單驗證",
     "url": "https://hao1229.github.io/2019/08/09/EcommercePractice8/"
+  },
+  {
+    "category": "Vue",
+    "item": "article",
+    "name": "[Vue] 跟著 Vue 闖蕩前端世界 - 12 使用 vee-validate 進行多語系表單資料驗證 | 搞搞就懂 - 點部落",
+    "url": "https://dotblogs.com.tw/wasichris/2018/08/30/003238"
   },
   {
     "category": "Vue",
